@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Cache",
+        "repositoryURL": "https://github.com/adamayoung/Cache.git",
+        "state": {
+          "branch": null,
+          "revision": "29112d44be33399117c5b28f51637008131ce0b9",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
